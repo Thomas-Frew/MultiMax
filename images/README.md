@@ -1,3 +1,3 @@
 # Images
 
-Image for this project's GitHub repository.
+Images for this GitHub repository.
