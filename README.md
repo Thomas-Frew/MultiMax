@@ -55,11 +55,12 @@ Training output will appear in QuantConnect's debug logs, while the final result
 
 To analyse an existing backtest, open the [results tool](./app/results.ipynb), enter the key of the saved pre-trained trading object (PTO), and press the "Run All" button.
 
-![Debug logs for a backtest](/images/run_results.png)
+![Setting up the results tool](/images/setup_results.png)
+![Running the results tool](/images/run_results.png)
 
 Visualisations of the results will appear in the rest of the notebook.
 
-![Debug logs for a backtest](/images/coefficients_plot.png)
+![A graph from our results tool](/images/coefficients_plot.png)
 
 
 ## Parameters
