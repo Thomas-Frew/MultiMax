@@ -51,7 +51,7 @@ To run a backtest, open the [main app](./app/main.py) and press the "Play" butto
 Training output will appear in QuantConnect's debug logs, while the final results will be available as a backtest on your Quantconnect account.
 
 ![Debug logs for a backtest](/images/backtest_logs.png)
-![A chart of showing the results of backtesting](/images/backtest_graph.png)
+![A graph of showing the results of backtesting](/images/backtest_graph.png)
 
 To analyse an existing backtest, open the [results tool](./app/results.ipynb), enter the key of the saved pre-trained trading object (PTO), and press the "Run All" button.
 
@@ -106,4 +106,4 @@ The following parameters can be configured to control the main app's training an
 - `key`: The name of our pre-trained trading object (PTO).
 
 ## Further Reading 
-More information on MultiMax, please read our [research paper](link).
+More information on MultiMax, please read our [research paper](research.pdf).
